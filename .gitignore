@@ -1,0 +1,35 @@
+# Build outputs
+build/
+Output/
+Listing/
+*.o
+*.obj
+*.hex
+*.bin
+*.axf
+*.elf
+*.out
+*.lst
+*.map
+
+# Keil MDK
+*.uvguix.*
+*.scvd
+JLinkLog.txt
+JLinkSettings.ini
+*.dep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Debug
+core
+*.core
+
+# Logs
+*.log
